@@ -15,6 +15,7 @@ local ValidKeys = {
     ["R7-ASPARAGUS-777"] = true,
     ["R7-GAÇAKÇAY-777"] = true,
     ["R7-Possidentis-777"] = true,
+    ["31"] = true,
 }
 
 local R7Config = {
