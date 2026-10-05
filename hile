@@ -12,9 +12,7 @@ local Mouse = LocalPlayer:GetMouse()
 -- GEÇERLİ KEY LİSTESİ
 local ValidKeys = {
     [""] = true,
-    ["R7-ASPARAGUS-777"] = true,
-    ["R7-GAÇAKÇAY-777"] = true,
-    ["R7-Possidentis-777"] = true,
+    ["senta"] = true,
     ["31"] = true,
 }
 
