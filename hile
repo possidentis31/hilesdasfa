@@ -131,7 +131,7 @@ local function StartR7Script()
         Text.Size = UDim2.new(1, -60, 1, 0)
         Text.Position = UDim2.new(0, 60, 0, 0)
         Text.BackgroundTransparency = 1
-        Text.Text = "Possidentis & Asparagus"
+        Text.Text = "Possidentis & JrSHEZİP"
         Text.TextColor3 = Color3.fromRGB(255, 255, 255)
         Text.Font = Enum.Font.GothamBold
         Text.TextSize = 14
